@@ -1,0 +1,7 @@
+name: phymol-binding
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pybind11
